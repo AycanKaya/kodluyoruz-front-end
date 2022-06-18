@@ -1,0 +1,38 @@
+body 
+{
+    text-align:center;
+    font-family: 'Nunito', sans-serif;
+
+}
+img {
+   width: 180px;
+    height: auto;
+  }
+  
+.container
+{
+        margin: 0 auto;
+        width:960px;
+        
+}
+
+.forHeader 
+{
+    font-family: 'Fascinate', cursive;
+    
+}
+
+.forP 
+{
+    
+    font-family: 'Nunito', sans-serif;
+
+}
+
+.forList
+{
+    list-style-position: inside;
+
+}
+
+
